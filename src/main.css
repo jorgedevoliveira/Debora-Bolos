@@ -1,0 +1,96 @@
+body {
+  width: 1400px;
+  height: 900px;
+  background: url(img/Img_art/home.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+}
+header {
+  position: absolute;
+  width: 1400px;
+  height: 120px;
+  left: 0px;
+  top: 0px;
+  background: #7c3e1b;
+}
+
+.logo {
+  position: absolute;
+  width: 200px;
+  height: 115px;
+  left: 162px;
+  top: 5px;
+}
+
+.logo img {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 50px;
+  top: 5px;
+}
+
+.txtlogo {
+  position: absolute;
+  width: 200px;
+  height: 31px;
+  left: 5px;
+  top: 50px;
+
+  font-family: Galada;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 59px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.menu li {
+  position: absolute;
+  width: 70px;
+  height: 50px;
+  left: 950px;
+  top: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.menu a {
+  text-decoration: none;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.footer {
+  position: absolute;
+  width: 1400px;
+  height: 130px;
+  left: 0px;
+  top: 770px;
+}
+
+#redes {
+  position: absolute;
+  width: 1400px;
+  height: 80px;
+  left: 0px;
+  top: 770px;
+  background: #9c9999;
+}
+
+#copy {
+  position: absolute;
+  width: 1400px;
+  height: 50px;
+  left: 0px;
+  top: 850px;
+  background: #6d6d6d;
+}
