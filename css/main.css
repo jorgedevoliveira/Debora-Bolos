@@ -78,8 +78,8 @@ article {
   left: 0px;
   right: 0px;
   top: 120px;
-  background: url(../img/Img_art/home.jpg) no-repeat;
-  background-attachment: fixed;
+  background: url(../img/Img_art/bg_intro.svg) no-repeat;
+  background-position: center;
 }
 
 footer {
